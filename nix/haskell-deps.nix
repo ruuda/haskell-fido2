@@ -15,6 +15,7 @@ haskellPackages:
       scientific
       scotty
       serialise
+      stm
       tasty
       tasty-hunit
       text
