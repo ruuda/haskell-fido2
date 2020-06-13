@@ -10,6 +10,7 @@ haskellPackages:
       bytestring
       cborg
       containers
+      cookie
       cryptonite
       http-types
       scientific
